@@ -52,8 +52,6 @@ The application will open in your browser at http://localhost:3000/.
 
 [This project is open-source and available under the MIT License.](https://choosealicense.com/licenses/mit/)
 
-## 🛠 Skills
+## Authors
 
-- Javascript
-- HTML
-- CSS
+- [@octokatherine](https://github.com/damithfdo95)
