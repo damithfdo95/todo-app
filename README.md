@@ -54,4 +54,4 @@ The application will open in your browser at http://localhost:3000/.
 
 ## Authors
 
-- [@octokatherine](https://github.com/damithfdo95)
+- [@damithfdo95](https://github.com/damithfdo95)
