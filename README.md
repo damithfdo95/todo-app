@@ -1,77 +1,59 @@
-Todo List App
+# Todo List App
 
 A simple and interactive Todo List application built with React that allows users to add, complete, and delete tasks.
 
-Features
+## Features
 
-Add new tasks
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Responsive and user-friendly UI
 
-Mark tasks as completed
+## Technologies Used
 
-Delete tasks
+- React (Hooks: useState)
+- HTML, CSS (Flexbox for layout)
+- JavaScript (ES6+)
 
-Responsive and user-friendly UI
-
-Technologies Used
-
-React (Hooks: useState)
-
-HTML, CSS (Flexbox for layout)
-
-JavaScript (ES6+)
-
-Installation
+## Installation
 
 Follow these steps to run the app locally:
 
 1. Clone the repository
-
+```bash
 git clone https://github.com/your-username/todo-list-react.git
 cd todo-list-react
-
+```
 2. Install dependencies
-
+```bash
 npm install
-
+```
 3. Start the development server
-
+```bash
 npm start
-
+```
 The application will open in your browser at http://localhost:3000/.
 
-Project Structure
+## Usage
 
-📂 todo-list-react
- ┣ 📂 src
- ┃ ┣ 📂 components
- ┃ ┃ ┣ 📜 TodoList.js
- ┃ ┃ ┣ 📜 TodoItem.js
- ┃ ┣ 📜 App.js
- ┃ ┣ 📜 index.js
- ┣ 📜 App.css
- ┣ 📜 package.json
- ┗ 📜 README.md
+- Type a task in the input field.
+- Click the "Add" button to add it to the list.
+- Check the checkbox to mark a task as completed.
+- Click the "X" button to delete a task.
 
-Usage
+## Future Improvements
 
-Type a task in the input field.
+- Edit existing tasks
+- Drag-and-drop task reordering
+- Filter tasks (All, Active, Completed)
+- Backend integration for persistent storage
 
-Click the "Add" button to add it to the list.
+## License
 
-Check the checkbox to mark a task as completed.
+[This project is open-source and available under the MIT License.](https://choosealicense.com/licenses/mit/)
 
-Click the "X" button to delete a task.
+## 🛠 Skills
 
-Future Improvements
-
-Edit existing tasks
-
-Drag-and-drop task reordering
-
-Filter tasks (All, Active, Completed)
-
-Backend integration for persistent storage
-
-License
-
-This project is open-source and available under the MIT License.
+- Javascript
+- HTML
+- CSS
